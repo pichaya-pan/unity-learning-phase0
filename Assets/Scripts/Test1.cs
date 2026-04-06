@@ -5,7 +5,7 @@ public class Test1 : MonoBehaviour
 {
     private void Start()
     {
-        Debug.Log("Hello Unity 1");
+        Debug.Log("Hello Unity 123");
     }
 
 }
